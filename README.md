@@ -1,6 +1,7 @@
 # IASC 2P02
 ## Hey I'm Devin
 
+![](Images/me.jpg)
 I am currently in my Second year at Brock University in the Interactive Arts and Science program. I transferred from Software Engineering at University of Ottawa.
 
 Throughout my studies I’ve completed multiple assignments that I will be adding to my portfolio over the years including homemade projects that I have made in my spare time.
