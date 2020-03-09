@@ -15,7 +15,7 @@ Johanna Drucker also believes that all data, factual and opinion based, are vali
 
 
 
-##Works Cited
+## Works Cited
 
 Goldstone, A. (2019). Debates in the Digital Humanities 2019: PART III ][ Chapter 19. Retrieved from https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/620caf9f-08a8-485e-a496-51400296ebcd#ch19
 
